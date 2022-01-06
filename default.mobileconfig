@@ -17,7 +17,7 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>TP-LINK_8076</key>
+			<key>Password</key>
 			<string>qazxcvbnm123</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
@@ -34,7 +34,7 @@
 			<key>ProxyServer</key>
 			<string>192.168.0.107</string>
 			<key>ProxyServerPort</key>
-			<integer>10808</integer>
+			<integer>10809</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
